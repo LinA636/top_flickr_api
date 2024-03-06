@@ -70,3 +70,4 @@ end
 
 gem 'httparty'
 gem 'figaro'
+gem "flickr.rb", "~> 1.2"
