@@ -1,24 +1,7 @@
-# README
+User Flickr API to display users Pictures in the application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Corresponds to the Odin Project lesson:
+https://www.theodinproject.com/lessons/ruby-on-rails-flickr-api
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://idratherbewriting.com/learnapidoc/docapis_flickr_example.html 
+walks me through how to use the flickr API
